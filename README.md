@@ -6,5 +6,5 @@ Various documents and templates for PhD students in the School of Computing & Co
 * [For part-time students](appraisal-schedule/scc-phd-appraisal-schedule-pt.pdf)
 
 ## Progress Reports
-* [Template for full-time students](progress-report-templates/scc-phd-progress-report-ft-template.tex)
-* [Template for part-time students](progress-report-templates/scc-phd-progress-report-pt-template.tex)
+* [LaTeX template for full-time students](progress-report-templates/scc-phd-progress-report-ft-template.tex)
+* [LaTeX template for part-time students](progress-report-templates/scc-phd-progress-report-pt-template.tex)
