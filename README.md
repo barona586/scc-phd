@@ -8,3 +8,5 @@ Various documents and templates for PhD students in the School of Computing & Co
 ## Progress Reports
 * [LaTeX template for full-time students](progress-report-templates/scc-phd-progress-report-ft-template.tex)
 * [LaTeX template for part-time students](progress-report-templates/scc-phd-progress-report-pt-template.tex)
+* [PDF notes for full-time students (if not using LaTeX)](progress-report-templates/scc-phd-progress-report-ft-template.pdf)
+* [PDF notes for part-time students (if not using LaTeX)](progress-report-templates/scc-phd-progress-report-pt-template.pdf)
