@@ -1,6 +1,8 @@
 # SCC PhD Documents
 Various documents and templates for PhD students in the School of Computing & Communications at Lancaster University
 
+This repo has migrated to gitlab: https://delta.lancs.ac.uk/barona/scc-phd
+
 ## Appraisal Schedule
 * [For full-time students](appraisal-schedule/scc-phd-appraisal-schedule-ft.pdf)
 * [For part-time students](appraisal-schedule/scc-phd-appraisal-schedule-pt.pdf)
